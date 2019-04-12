@@ -1,0 +1,2 @@
+The sorted array in ascending order is:
+2 3 4 14 32 34 45 76 
